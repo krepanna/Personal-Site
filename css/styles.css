@@ -1,0 +1,126 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+}
+
+span {
+  text-decoration: underline;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+hr {
+  border: none;
+  border-top: 6px dotted #EAF6F6;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.top-container {
+  background-color: #ffd5cd;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #efbbcf;
+  padding: 100px 0;
+}
+
+.bottom-container {
+  background-color: #c3aed6;
+  padding: 50px 0 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.profile {
+  width: 30%;
+  margin: auto;
+  line-height: 2;
+}
+
+.skill-row {
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.computer-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.sunset-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me {
+  width: 40%;
+  margin: 100px auto 0;
+  line-height: 2;
+}
+
+.btn {
+   background-color: #66BFBF;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-size: 20px;
+   padding: 10px 20px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 50px;
+}
+
+.footer-link {
+  display: inline-block;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+}
+
+.copywright {
+  color: #EAF6F6;
+  font-size: 0.7em;
+  padding: 20px 0;
+}
